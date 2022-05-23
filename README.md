@@ -1,5 +1,6 @@
 # ParentChildProcessTask
 ## How to run the program 
+0) Create the **build** folder via **mkdir build** command.
 1) Go to a folder **build**
 2) Build a project **cmake --build .**
 3) Run the program with **./parent**
